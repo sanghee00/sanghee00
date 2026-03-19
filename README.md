@@ -18,7 +18,7 @@
 🤝 코드 리뷰 문화 정착과 CI/CD 자동화로 팀 전체의 개발 효율을 높입니다.
 ```
 
-- 🎓 영남이공대학교 소프트웨어콘텐츠학과 전공심화 학사 재학 중 (2025 ~ 2026)
+- 🎓 영남이공대학교 소프트웨어콘텐츠학과 전공심화 학사 졸업 (2025 ~ 2026)
 - 📬 **hansanghee112@gmail.com**
 - 📝 기술 블로그: [velog.io/@tkdgml82](https://velog.io/@tkdgml82)
 - 🌐 포트폴리오: [sanghee00.github.io](https://sanghee00.github.io)
