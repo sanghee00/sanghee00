@@ -39,7 +39,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Caffeine](https://img.shields.io/badge/Caffeine_Cache-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 **Infra & DevOps**
 
