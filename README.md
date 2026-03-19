@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43B89C,100:1A6B5A&height=220&section=header&text=Han%20Sanghee&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%22%EB%B9%A0%EB%A5%B4%EB%8B%A4%EB%8A%94%20%EB%8A%90%EB%82%8C%EC%9D%B4%20%EC%95%84%EB%8B%8C%2C%20%EC%88%98%EC%B9%98%EB%A1%9C%20%EA%B2%80%EC%A6%9D%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%22&descAlignY=60&descSize=18&descColor=d0f0e8" />
 
 <!-- 방문자 카운터 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanghee00&count_bg=%2343B89C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sanghee00&color=43B89C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
